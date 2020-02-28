@@ -1,0 +1,23 @@
+#app{
+background-color: deeppink;
+margin: 30px;
+padding: 30px;
+color: forestgreen;
+overflow: hidden;
+}
+
+
+h1{
+    font-family:arial;
+    color: indigo;
+}
+
+
+h3{
+    font-style:italic;
+}
+
+#box-group{
+    width: 100%;
+    overflow: hidden;
+}
